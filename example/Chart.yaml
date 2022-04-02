@@ -1,0 +1,11 @@
+apiVersion: v2
+name: example-demo
+description: Example demo
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+
+dependencies:
+  - name: example-html
+    version: 9.8.93
+    repository: https://startxfr.github.io/helm-repository/packages

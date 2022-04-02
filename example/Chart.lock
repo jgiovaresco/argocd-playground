@@ -1,0 +1,6 @@
+dependencies:
+- name: example-html
+  repository: https://startxfr.github.io/helm-repository/packages
+  version: 9.8.93
+digest: sha256:8b6416534eb4362d36a5997cef331db6dfc61b60a0bc9d07e3e7db88988b4416
+generated: "2022-04-02T09:45:00.281382+02:00"
